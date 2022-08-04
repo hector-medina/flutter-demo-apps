@@ -1,8 +1,8 @@
-Flutter demo apps.
+# Flutter demo apps.
 
 This repository contains demo apps for learning flutter framework.
 
-1. I am rich.
+## 1. I am rich.
 
 This app displays a diamond image in the main body so you can show off you're very rich. 
 

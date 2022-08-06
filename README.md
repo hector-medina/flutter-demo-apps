@@ -21,7 +21,7 @@ This app displays a rock image in the main body so you can make others know you'
 
 ## 3. MiCard.
 
-It displays a card for showing your contac details to your friends and coworkers.
+It displays a card for showing your contact details to your friends and coworkers.
 
 
 | App view             |  Icon view |

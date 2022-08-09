@@ -28,4 +28,12 @@ It displays a card for showing your contact details to your friends and coworker
 | --- | --- |
 | ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/3.%20MiCard/images/micard-app.png?raw=true)  | ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/3.%20MiCard/images/micard-icon.png?raw=true) |
 
+## 4. Dicee.
+
+It displays two dicees' in the main scrren. The user can tap on them to 'throw' them and eventually it will trigger a random function to get the next dicee.
+
+| App view             |  Icon view |
+| --- | --- |
+| ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/4.%20Dice/images/app.png?raw=trur)  | ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/4.%20Dice/images/icon.png?raw=true) |
+
 

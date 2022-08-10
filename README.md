@@ -37,3 +37,11 @@ It displays two dicees' in the main scrren. The user can tap on them to 'throw' 
 | ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/4.%20Dice/images/app.png?raw=trur)  | ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/4.%20Dice/images/icon.png?raw=true) |
 
 
+## 5. Magic 8 ball.
+
+This app will help you to make hard decisions, every time you tap the ball it will give you an answer so you will be free to make that hard decision.
+| App view             |  Icon view |
+| --- | --- |
+| ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/5.%20Magic%208%20Ball/images/app.png)  | ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/5.%20Magic%208%20Ball/images/icon.png) |
+
+

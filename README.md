@@ -44,4 +44,10 @@ This app will help you to make hard decisions, every time you tap the ball it wi
 | --- | --- |
 | ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/5.%20Magic%208%20Ball/images/app.png)  | ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/5.%20Magic%208%20Ball/images/icon.png) |
 
+## 6. Xylophone.
+
+This app shows a xylophone to play your favourite songs..!
+| App view             |  Icon view |
+| --- | --- |
+| ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/6.%20Xylophone/images/app.png)  | ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/6.%20Xylophone/images/icon.png) |
 

@@ -51,3 +51,13 @@ This app shows a xylophone to play your favourite songs..!
 | --- | --- |
 | ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/6.%20Xylophone/images/app.png)  | ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/6.%20Xylophone/images/icon.png) |
 
+## 7. Quizzer.
+
+A simple quiz for checking yout general knowledge.
+| App view             |  Icon view |
+| --- | --- |
+| ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/7.%20Quizzler/images/app.png)  | ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/7.%20Quizzler/images/icon.png) |
+
+
+
+

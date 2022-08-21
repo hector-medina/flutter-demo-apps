@@ -58,6 +58,13 @@ A simple quiz for checking yout general knowledge.
 | --- | --- |
 | ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/7.%20Quizzler/images/app.png)  | ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/7.%20Quizzler/images/icon.png) |
 
+## 8. Destini.
+
+This app let you choose your destini in a build in story, you can change the story based on your actions.
+| App view             |  Icon view |
+| --- | --- |
+| ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/8.%20Destini/images/app.png)  | ![](https://github.com/hector-medina/flutter-demo-apps/blob/main/8.%20Destini/images/icon.png) |
+
 
 
 
